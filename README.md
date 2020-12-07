@@ -3,8 +3,8 @@
 ### Code
 | Training & Model | Comment |
 | ----- | ------  |
-|[Training functional transformer](riiid-train-functional-transformer.ipynb) | File used for training the TF transformer model in Colab |
-|[Functional transformer](riiid-functional-transformer.ipynb) | The functional TF transformer model |  
+|[riiid-train-functional-transformer](riiid-train-functional-transformer.ipynb) | File used for training the TF transformer model in Colab |
+|[riiid-functional-transformer](riiid-functional-transformer.ipynb) | The functional TF transformer model |  
 
 | Post-processing | Comment | 
 | -------------- | ------- |
