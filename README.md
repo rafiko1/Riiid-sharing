@@ -12,4 +12,4 @@
 
 | Saving dicts for inference | Comment | 
 | -------------- | ------- |
-| [riiid-save-seq-dict](riiid-preprocessing.ipynb) | Pre-processing of the features for the model |
+| [riiid-save-seq-dict](riiid-save-seq-dict.ipynb) | Saving dictionary of feature sequences of all users for inference |
