@@ -4,7 +4,7 @@
 | Training & Model | Comment |
 | ----- | ------  |
 |[riiid-train-functional-transformer](riiid-train-functional-transformer.ipynb) | File used for training the TF transformer model in Colab |
-|[riiid-functional-transformer](riiid-functional-transformer.ipynb) | The functional TF transformer model |  
+|[riiid-functional-transformer](riiid-functional-transformer.ipynb) | The functional TF transformer model with masking |  
 
 | Pre-processing | Comment | 
 | -------------- | ------- |
