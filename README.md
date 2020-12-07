@@ -1,11 +1,10 @@
 # Riiid-sharing
 
 ### Code
-| Training | Comment |
+| Training & Model | Comment |
 | ----- | ------  |
-|[Template for es/it/tr](template-es-it-tr.ipynb) | monolingual approach for languages with validation set (es/it/tr). Default model: XLM-R |
-|[Template for pt/ru/fr](template-pt-ru-fr.ipynb) | monolingual approach for languages without validation set (pt/ru/fr). Default model: XLM-R |  
-|[Template train-bias](template-train-bias.ipynb) | monolingual approach using train-bias dataset. Default model: XLM-R |  
+|[Training functional transformer](riiid-train-functional-transformer.ipynb) | File used for training the TF transformer model in Colab |
+|[Functional transformer](riiid-functional-transformer.ipynb) | The functional TF transformer model |  
 
 | Post-processing | Comment | 
 | -------------- | ------- |
