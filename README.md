@@ -9,3 +9,7 @@
 | Pre-processing | Comment | 
 | -------------- | ------- |
 | [riiid-preprocessing](riiid-preprocessing.ipynb) | Pre-processing of the features for the model |
+
+| Saving dicts for inference | Comment | 
+| -------------- | ------- |
+| [riiid-save-seq-dict](riiid-preprocessing.ipynb) | Pre-processing of the features for the model |
