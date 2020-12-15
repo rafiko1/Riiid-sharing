@@ -1,6 +1,6 @@
 # Riiid-sharing
 
-### Code
+### Tensorflow Code
 | Training & Model | Comment |
 | ----- | ------  |
 |[riiid-train-functional-transformer](riiid-train-functional-transformer.ipynb) | File used for training the TF transformer model in Colab |
