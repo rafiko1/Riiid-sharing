@@ -3,7 +3,7 @@
 ### Pytorch Code
 | Training & Model | Comment |
 | ----- | ------  |
-|[demo_riiid_train.ipynb](tensorflow/demo_riiid_train.ipynb) | File used for training the TF transformer model in Colab |
+|[riiid_pytorch_simple.ipynb](pytorch/riiid_pytorch_simple.ipynb) | Simplified code of Eric's Transformer version in Pytorch |
 
 ### Tensorflow Code
 | Training & Model | Comment |
