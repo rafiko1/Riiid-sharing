@@ -3,7 +3,7 @@
 ### Pytorch Code
 | Training & Model | Comment |
 | ----- | ------  |
-|[riiid_pytorch_simple.ipynb](pytorch/riiid_pytorch_simple.ipynb) | Simplified code of Eric's Transformer version in Pytorch |
+|[riiid_pytorch_simple.ipynb](pytorch/riiid_pytorch_simple.ipynb) | Simplified code of Eric's Transformer in Pytorch |
 
 ### Tensorflow Code
 | Training & Model | Comment |
