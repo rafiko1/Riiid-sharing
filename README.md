@@ -1,6 +1,9 @@
 # Riiid-sharing
 
 ### Pytorch Code
+| Training & Model | Comment |
+| ----- | ------  |
+|[demo-riiid-train](tensorflow/demo-riiid-train.ipynb) | File used for training the TF transformer model in Colab |
 
 ### Tensorflow Code
 | Training & Model | Comment |
